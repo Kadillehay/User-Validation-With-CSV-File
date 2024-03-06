@@ -36,8 +36,8 @@ Provides getter and setter methods for each property.
 File Format (data.txt)
 The data.txt file contains user information in the following format:
 
-test@email.com,passwordTest!1,Test User
-another@user.com,asdfasdf,Another User
-john.doe@mydomain.net,Hdk398jf!,John Doe
-jane.doe@myotherdomain.com,sunrise-sunset,Jane Doe
-Each line corresponds to a user record with comma-separated values for username, password, and name.
+-test@email.com,passwordTest!1,Test User
+-another@user.com,asdfasdf,Another User
+-john.doe@mydomain.net,Hdk398jf!,John Doe
+-jane.doe@myotherdomain.com,sunrise-sunset,Jane Doe
+-Each line corresponds to a user record with comma-separated values for username, password, and name.
